@@ -1,6 +1,7 @@
 💜 Olá meu nome é Andreza
 
 🎓   Formada em Analise e desenvolvimento de sistemas IFSP
+
      Estudando Especialização de Engenharia de Software Puc Minas
 
      (Java | Spring Boot |  React JS | NodeJs | Angular | Typescript | Javascript | HTML | CSS )
