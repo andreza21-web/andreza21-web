@@ -1,17 +1,46 @@
-💜 Olá meu nome é Andreza
+<p align="left">💜 Olá meu nome é Andreza<br><br>🎓 Formada em Analise e desenvolvimento de sistemas IFSP<br><br>Especialização de Engenharia de Software Puc Min</p>
 
-🎓   Formada em Analise e desenvolvimento de sistemas IFSP
+###
 
-Estudando Especialização de Engenharia de Software Puc Minas
+<p align="left">Tecnologias</p>
 
-     (Java | Spring Boot |  React JS | NodeJs | Angular | Typescript | Javascript | HTML | CSS )
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-⭐ Informações sobre minha conta GitHub
+###
 
-[![card](https://github-readme-stats.vercel.app/api?username=andreza21-web&theme=dark)](https://github.com/andreza21-web/)
+<p align="left">⭐ Informações sobre minha conta GitHub</p>
 
+###
 
-[![andreza21-web](https://github-readme-stats.vercel.app/api/top-langs/?username=andreza21-web&hide=html&layout=compact&theme=dark)](https://github.com/andreza21-web/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreza21-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreza21-web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<img src="https://raw.githubusercontent.com/andreza21-web/andreza21-web/output/snake.svg" alt="Snake animation" />
+
+###
