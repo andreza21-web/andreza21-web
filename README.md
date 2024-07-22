@@ -1,4 +1,4 @@
-<p align="left">💜 Olá meu nome é Andreza<br><br>🎓 Formada em Analise e desenvolvimento de sistemas IFSP<br><br>Especialização de Engenharia de Software Puc Min</p>
+<p align="left">💜 Olá meu nome é Andreza<br><br>🎓 Formada em Analise e desenvolvimento de sistemas IFSP<br><br>Especialização de Engenharia de Software Puc Minas</p>
 
 ###
 
